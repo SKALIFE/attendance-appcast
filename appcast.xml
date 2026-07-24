@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SKALA Attendance</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 24 Jul 2026 16:30:59 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/skalife/attendance-appcast/main/SKALA-Attendance-0.1.0-arm64.zip" length="1059743" type="application/octet-stream" sparkle:edSignature="LD7uGXtMeE7ygjxxfsVsZ1brwE3EAMA8HLOoPwbAYubF7nuzXqhrB59rVVcaGfZqRsRs/nramsZ/k5tCYb8nBw=="/>
+        </item>
+    </channel>
+</rss>
