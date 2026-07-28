@@ -1,6 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
+Release ZIP download verified.
+    <item>
+      <title>Version 0.1.9</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <enclosure url="https://github.com/SKALIFE/attendance/releases/download/v0.1.9/SKALA-Attendance-0.1.9-arm64.zip" length="1064373" type="application/octet-stream" sparkle:edSignature="S9qA8Yv+X36wTKDeieAdtCDrtE3p16/QwtBY1pSj2pW0IdbmluJiBJclZbueqrpf6oHNUAC4OESHv2oEkDI4Bw==" sparkle:version="10" sparkle:shortVersionString="0.1.9" sparkle:minimumSystemVersion="14.0" sparkle:os="macos" sparkle:arch="arm64" />
+    </item>
         <title>SKALA Attendance</title>
         <item>
             <title>0.1.8</title>
