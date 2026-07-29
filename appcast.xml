@@ -2,6 +2,12 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
     <item>
+      <title>Version 0.1.11</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <enclosure url="https://github.com/SKALIFE/attendance/releases/download/v0.1.11/SKALA-Attendance-0.1.11-arm64.zip" length="1093925" type="application/octet-stream" sparkle:edSignature="Tk/39I6DVVmm34E1pdcAdT4zRQ9wvxiknoMVoJ4DBpzZjTn//0tMdlG1yi+071pS5SeQ/3pGfCv7loMz7IStDA==" sparkle:version="12" sparkle:shortVersionString="0.1.11" sparkle:minimumSystemVersion="14.0" sparkle:os="macos" sparkle:arch="arm64" />
+    </item>
+    <item>
       <title>Version 0.1.9</title>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
